@@ -1,0 +1,1031 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.2431829,
+          14.1740177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:10:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=12036092670069407355",
+        "location": {
+          "address": "9472 Lopez Ave, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Enzo's Ramen"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2431051,
+          14.1736642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:10:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=8439248491159762265",
+        "location": {
+          "address": "Bgy, 9478 Lopez Ave, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Dalcielo Restaurant & Bakeshop"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2432053,
+          14.1729823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:10:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=15798890234972878822",
+        "location": {
+          "address": "56FV+57W, Lopez Ave, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "ANIES CARINDERIA"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2431898,
+          14.1731861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:10:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=9926791686787848154",
+        "location": {
+          "address": "10467 Barangay Batong Malake, 4031, 10466 Lopez Ave, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Jerico's Bakeshop"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2429047,
+          14.1732293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:10:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=4689196206397032450",
+        "location": {
+          "address": "56FV+75R, Mt, Samat St, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Ferdsilog & Ihaw Ihaw"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2425498,
+          14.1727551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:09:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=15415463131526565244",
+        "location": {
+          "address": "56FV+32W, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Siomai King - Umali"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2424719,
+          14.1726292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:09:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=4907001903574019290",
+        "location": {
+          "address": "56FR+3X5, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Raca Creisking Lomi House"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2424769,
+          14.1728613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:09:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=13471884288208923021",
+        "location": {
+          "address": "56FR+4XX, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "We Deliver Umali"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2429278,
+          14.1725886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:09:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=18302923225312033842",
+        "location": {
+          "address": "10000 Halcon St, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Flames Fancy Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2423424,
+          14.1723921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:09:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=10460181172703816433",
+        "location": {
+          "address": "Madecor Bldg, Halcon St, Umali Subdivision, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Grills and Briqs: Unlimited BBQ and Wings Los Baños"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2424163,
+          14.1704491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:09:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=8052905564118731171",
+        "location": {
+          "address": "569R+XWF, Banahaw St, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Alexa's Kitchen"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2422095,
+          14.1690936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:08:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=16681843611746437134",
+        "location": {
+          "address": "Dancel's Building, F.O. Santos St, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Zaibatsu Resto Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2420927,
+          14.1690892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:08:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=887175778979699863",
+        "location": {
+          "address": "10351 F.O. Santos St, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Botchog Foodhub"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2412014,
+          14.1691638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:08:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=8704681233178767500",
+        "location": {
+          "address": "near Raymundo Gate, 10247 Ruby St, Umali Subdivision, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Auntie Pearl's Pizza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2412260,
+          14.1682466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:07:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=16026690889760582257",
+        "location": {
+          "address": "Lola J's 10276, 8 Ruby St, Umali Subdivision, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Wildbreads"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2413085,
+          14.1681491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:07:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=12940540448626350942",
+        "location": {
+          "address": "Umali Subd, 10946 Ruby St, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Enteng’s Cheesy Silog - Los Baños Branch"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2418432,
+          14.1679606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:07:30Z",
+        "google_maps_url": "http://maps.google.com/?cid=576179812283468065",
+        "location": {
+          "address": "UPLB, 10944 Jose R Velasco Ave, UPLB, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "We Deliver - All-day breakfast"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2423875,
+          14.1682910
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:07:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=8090778481726779422",
+        "location": {
+          "address": "569R+8X6, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Big Belly's"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2439790,
+          14.1687597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:07:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=3734146356969377853",
+        "location": {
+          "address": "Grove, Lopez Ave, Los Baños, 4031 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "ES Plaza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2433273,
+          14.1698345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:07:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=10390252376361473780",
+        "location": {
+          "address": "Umali Subdivision, 9704 Diamond Street, Corner F.O. Santos St, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "KA-I-NAN NA !!!"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2430037,
+          14.1694476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:06:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=11494098068274713412",
+        "location": {
+          "address": "Umali Subdivision, 4030 F.O. Santos St, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Sure Wings LB"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2438450,
+          14.1698991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:06:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=11870448251045690895",
+        "location": {
+          "address": "569V+XG5, F.O. Santos St, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Ate Rica's Bacsilog"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2436835,
+          14.1704516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:06:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=5485996614354951514",
+        "location": {
+          "address": "56CV+5FV, Lopez Ave, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Selina's"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2439329,
+          14.1726676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:06:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=5954010988113333005",
+        "location": {
+          "address": "Agapita road, Lopez Ave, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Elbi Grill"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2452590,
+          14.1741008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:06:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=16994172114010353317",
+        "location": {
+          "address": "56FW+J4R, Daang Kalabaw, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Boying's Grill"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2411325,
+          14.1689339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:05:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=6569434387690440436",
+        "location": {
+          "address": "569R+HFC, Ruby St, F.O. Santos St, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "K-Go Korean Food House"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2414699,
+          14.1688661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:05:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=3220777546908375044",
+        "location": {
+          "address": "F.O. Santos St, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Nicdao's Grill"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2445547,
+          14.1656081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:05:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=7881576605568237775",
+        "location": {
+          "address": "568V+6RV, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "La Ville Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2438193,
+          14.1670223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:05:19Z",
+        "google_maps_url": "http://maps.google.com/?cid=3494683420866668153",
+        "location": {
+          "address": "113 Victoria M Ela Ave, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Dalcielo Bakery and Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2435815,
+          14.1680253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:05:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=18288152576913288534",
+        "location": {
+          "address": "Vega Arcade, Lopez Ave, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Pizzeria Margherita"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2438220,
+          14.1678590
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:05:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=703951874855395381",
+        "location": {
+          "address": "3rd floor, UPLB Main Gate, Vega Centre, Lopez Ave, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "NaimBagnet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2440678,
+          14.1681686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:04:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=12340006447483575164",
+        "location": {
+          "address": "Grove, Lopez Ave, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Jollibee Grove Los Baños"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2445036,
+          14.1688220
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:04:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=15869396812104689768",
+        "location": {
+          "address": "10631 Oregano, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Ken's Take-out Los Baños"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2445005,
+          14.1689773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:04:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=4979511029932468622",
+        "location": {
+          "address": "9031 Oregano, Demarses subd Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "KOREAN TOP CHEF in Los baños"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2437550,
+          14.1697211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:04:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=3835934183138874361",
+        "location": {
+          "address": "F.O. Santos St, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Phuong's Vietnamese Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2406955,
+          14.1702977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:03:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=2829733183878002936",
+        "location": {
+          "address": "Unit C2B, Brgy, Sandrose Place, Ruby St, Umali Subdivision, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "ChickenSeyo | Los Baños"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2408480,
+          14.1711124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:03:57Z",
+        "google_maps_url": "http://maps.google.com/?cid=8297994645029247872",
+        "location": {
+          "address": "10037 Ruby St, Umali Subdivion Brgy, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Mint and Snow Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2432417,
+          14.1598416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:03:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=18056761179490715782",
+        "location": {
+          "address": "Alumni Plaza, Manuel Roxas St University of, Los Baños, 4031 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Vraja Cuisine - Vegetarian and Vegan Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2396991,
+          14.1617414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:03:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=7908733325637869255",
+        "location": {
+          "address": "Juan V. Pancho, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Dalcielo SEARCA Hotel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2412302,
+          14.1684962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:02:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=11165250535701187939",
+        "location": {
+          "address": "Unit C 10276 Ruby Street, Los Banos Subdivision, 4030, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Chubby Habbi's Mediterranean Grill"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2415640,
+          14.1690595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:02:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=5980057246879004950",
+        "location": {
+          "address": "F.O Santos St, corner Mt. Arayat, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "It's a Thai Los Baños"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2417027,
+          14.1690833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:01:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=2700290361200079541",
+        "location": {
+          "address": "F.O. Santos st, corner Pearl St, Umali Subd, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Seoul Kitchen"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2422256,
+          14.1690262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:01:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=17630699194776676954",
+        "location": {
+          "address": "Umali Subd, Dancel's Dormitory, 10355 F.O. Santos St, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Cynthia's: Litson sa Banga"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2440695,
+          14.1697727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:01:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=12823245989268189834",
+        "location": {
+          "address": "Brgy, 10451 Lopez Ave, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Sobremesa Restaurant & Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2465532,
+          14.1709350
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:01:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=8387087542277698496",
+        "location": {
+          "address": "One Bonitos Place, Bangkal St, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Bonitos Bar & Restaurant Los Baños"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2445886,
+          14.1728486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:01:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=17051000285480221727",
+        "location": {
+          "address": "Agapita Rd, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Danielito's Home Kitchen"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2428645,
+          14.1727868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:01:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=6797137596065079209",
+        "location": {
+          "address": "Unit 6, Monte Fiore Commercial Center, Halcon St., Umali Subdv.,, 4030, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Solita's Farm Diner"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2415643,
+          14.1737575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:01:19Z",
+        "google_maps_url": "http://maps.google.com/?cid=7856336936089497051",
+        "location": {
+          "address": "Jade St, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "The Burger Garage - Los Baños"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2428788,
+          14.1756063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:01:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=4867417268737353851",
+        "location": {
+          "address": "9390 Lopez Ave, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Spice Jar Restaurant.Catering.Cakes"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2427508,
+          14.1759560
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:01:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=5222465927477478781",
+        "location": {
+          "address": "56GV+94J, Lopez Ave, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "House of Aina"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2518581,
+          14.1767020
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:00:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=1899246974854265213",
+        "location": {
+          "address": "57G2+MPQ, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Jardin de Joie"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2527475,
+          14.1784641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:00:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=3252646667403894187",
+        "location": {
+          "address": "Lot 1 Blk 1, Annest Ville, Brgy, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "RibSarap - Los Baños"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2428635,
+          14.1782083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:00:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=6756215769543494411",
+        "location": {
+          "address": "9569 National Highway, Los Baños, 4030 Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Twinkle Pop Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.2296520,
+          14.1800936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-16T01:00:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=2828092913615488392",
+        "location": {
+          "address": "Carbern Village, Los Baños, Laguna, Philippines",
+          "country_code": "PH",
+          "name": "Maluzo Restaurant"
+        }
+      },
+      "type": "Feature"
+    }
+  ]
+}
